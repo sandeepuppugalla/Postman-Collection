@@ -1,0 +1,1 @@
+{"info":{"_postman_id":"1ba15111-91af-4ff4-b7dc-2ecd488b4151","name":"New Collection","schema":"https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},"item":[{"name":"pay","id":"5ba96e6e-15e5-4bfc-ad2f-0c51b449796a","protocolProfileBehavior":{"disableBodyPruning":true},"request":{"method":"GET","header":[]},"response":[]}]}
